@@ -4,7 +4,7 @@ My name is Joseph Guzman,
 
 I am currently working towards my PhD in Astrophysics from Florida State University.
 
-My work is primarily involved in understanding which stars explode?
+My work is primarily involved in understanding which stars explode.
 
 I often code in python and utilize bayesian inference techniques.
 
